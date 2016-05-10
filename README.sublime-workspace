@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"destin",
+				"destinindegree"
+			],
+			[
+				"des",
+				"destinindegreepercentile"
+			],
+			[
+				"sourceout",
+				"sourceoutdegree"
+			],
+			[
+				"out",
+				"outdegreedict"
+			],
+			[
+				"in",
+				"inoutdegrees"
+			],
+			[
+				"sour",
+				"sourceindegree"
+			],
+			[
+				"posts",
+				"posts_conn"
+			],
+			[
+				"degr",
+				"degree_correlations"
+			],
+			[
+				"file",
+				"filenames1"
+			],
+			[
+				"set",
+				"set_ydata"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"sum",
+				"sum_weight"
+			],
+			[
+				"reci",
+				"reciprocity_coefficient"
+			],
+			[
+				"k2",
+				"k2_nodes"
+			],
+			[
+				"deg",
+				"degreedict"
+			],
+			[
+				"edge",
+				"edgelist"
+			],
+			[
+				"nei",
+				"neighbors_degree"
+			],
+			[
+				"ne",
+				"neighbors_weights"
+			],
+			[
+				"ed",
+				"edges"
+			],
+			[
+				"n",
+				"nodes"
+			],
+			[
+				"clus",
+				"clustering_coeffs"
+			],
+			[
+				"node",
+				"nodelist"
+			],
+			[
+				"pa",
+				"parentuserid"
+			],
+			[
+				"edges",
+				"edges2"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"cite",
+				"citelist"
+			],
+			[
+				"tm",
+				"tmp2"
+			],
+			[
+				"get",
+				"get_cited"
+			],
+			[
+				"cou",
+				"count_voter"
+			],
+			[
+				"top",
+				"top_users"
+			],
+			[
+				"ow",
+				"owner_list"
+			],
+			[
+				"new",
+				"new_user_conn"
+			],
+			[
+				"own",
+				"ownerSet"
+			],
+			[
+				"user",
+				"userid_list"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"count",
+				"counts"
+			],
+			[
+				"tag",
+				"tags_temp"
+			],
+			[
+				"tags",
+				"tags_list"
+			],
+			[
+				"x",
+				"xtick"
+			],
+			[
+				"pre",
+				"prevCount"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"tot",
+				"totalProbs"
+			],
+			[
+				"y",
+				"ysuit"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"max",
+				"maxList"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"all",
+				"allHandValues"
+			],
+			[
+				"temp",
+				"tempSize"
+			],
+			[
+				"final",
+				"finalVal"
+			],
+			[
+				"ran",
+				"randomFiveRun"
+			],
+			[
+				"h",
+				"high"
+			],
+			[
+				"num",
+				"numSeq"
+			],
+			[
+				"hig",
+				"high1"
+			],
+			[
+				"hi",
+				"high2"
+			],
+			[
+				"car",
+				"cardSet"
+			],
+			[
+				"numS",
+				"numSeqSort"
+			],
+			[
+				"d",
+				"deckDicType"
+			],
+			[
+				"deck",
+				"deckDic"
+			],
+			[
+				"sele",
+				"selecPosts"
+			],
+			[
+				"pop",
+				"popList"
+			],
+			[
+				"hour",
+				"hourInd"
+			],
+			[
+				"list",
+				"list2"
+			],
+			[
+				"lis",
+				"list2"
+			],
+			[
+				"bidd",
+				"bidders"
+			],
+			[
+				"graph",
+				"graph_path"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"rela",
+				"relativePriceCOOP"
+			],
+			[
+				"total",
+				"totalPayoff"
+			],
+			[
+				"cur",
+				"curBroker"
+			],
+			[
+				"consumer",
+				"consumers"
+			],
+			[
+				"cons",
+				"consID"
+			],
+			[
+				"coun",
+				"countStart"
+			],
+			[
+				"wea",
+				"weatherOrder"
+			],
+			[
+				"uni",
+				"uniqueDates"
+			],
+			[
+				"Wea",
+				"Weather2"
+			],
+			[
+				"weat",
+				"Weather1"
+			],
+			[
+				"D",
+				"DataSet"
+			],
+			[
+				"mse",
+				"mse_min"
+			],
+			[
+				"alpha",
+				"alpha_p"
+			],
+			[
+				"hold",
+				"holdflag"
+			],
+			[
+				"start",
+				"startFlag"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"left",
+				"leftduration"
+			],
+			[
+				"prob",
+				"probArray"
+			],
+			[
+				"ex",
+				"expected"
+			],
+			[
+				"exp",
+				"expectedMA"
+			],
+			[
+				"np",
+				"nTimeSteps"
+			],
+			[
+				"duration",
+				"durationArray"
+			],
+			[
+				"no",
+				"normalStart"
+			],
+			[
+				"noram",
+				"normalLoad"
+			],
+			[
+				"G",
+				"GaussianNB"
+			],
+			[
+				"reduc",
+				"reductionCoeff"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/dynamicnetwork.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/networkAnalytics.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/Code.sql",
+		"/Users/AEhsanfar/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/test.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/Google_Scholar/Social_Network_Structure_Online_Behavior/nameAnalytics.py",
+		"/Users/AEhsanfar/Documents/gscholar.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/ageAnalytics.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/modify_csv.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Analytics/modify_csv.py ",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/StackExchangeUsers/UserDataFiles/Users.xml",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/StackExchangeUsers/postSeries.py",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/probRelation.java",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/distributions.java",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/calProbabilities.java",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/finalAggregation.py",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/AggParallel.java",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/AppParallel.java",
+		"/Users/AEhsanfar/Documents/Java/Hand_Aggregation/Agg.java",
+		"/Users/AEhsanfar/Google Drive/Projects_Courses_iCloud/Python/Poker/3CardsRank/src/App.java",
+		"/Users/AEhsanfar/Documents/Java/Value/src/App.java",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Submitted/python Font",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Submitted/references.bib",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Submitted/Review/Simulation/Final/visualize.py",
+		"/Users/AEhsanfar/Documents/OneDrive/probTest.py",
+		"/Users/AEhsanfar/Documents/test.java",
+		"/Users/AEhsanfar/Google Drive/Projects_Courses_iCloud/Python/Poker/POKV1.2/src/Panel2.java",
+		"/Users/AEhsanfar/Google Drive/Projects_Courses_iCloud/Python/Poker/POKERHAND/src/HandValue.java",
+		"/Users/AEhsanfar/Google Drive/Projects_Courses_iCloud/Python/Poker/POKERHAND/src/App.java",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Python/Poker/poker_freq.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Python/Poker/poker.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Python/Poker/tkiner.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Python/Corporate_Finance_Ali_Taatian/investment.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/IEEE_Reviews.tex",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/DataBase/Assignment/Table02SQL.sql",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Ultimatum Game/Graph_gen.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/StackExchangeData/StackExchangeUsers/timeseries.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/StackExchangeData/StackExchangeUsers/Code.sql",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/Google_Python/google-python-exercises/basic/list2.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/Google_Python/google-python-exercises/basic/mimic.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Python/Corporate_Finance_Ali/investment.py",
+		"/Volumes/aehsanfa/public_html/index.html",
+		"/Volumes/aehsanfa/public_html/resume.html",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/StackExchangeData/StackExchange/CreateTables.sql",
+		"/Users/AEhsanfar/Documents/Java/DB/src/SDAP.java",
+		"/Users/AEhsanfar/Dropbox/with Abas/StackExchange/Votes.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Votes.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Tags.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Badges.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Comments.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Posts.xml",
+		"/Users/AEhsanfar/Documents/Data Sets/StackExchange/Users.xml",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/StackExchangeData/Data Stack_Exchange/PostLinks.xml",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/StackExchangeData/Data Stack_Exchange/Badges.xml",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/DataBase/Assignment/DB/src/sdap.java",
+		"/Users/AEhsanfar/Documents/Java/DBTest/src/App.java",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/DataBase/Assignment/DBTest/src/App.java",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Courses/DataBase/Assignment/DBTest2/src/Row.java",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/visualDAL.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/Final/final.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/UG-source_Learning/Single_Core/Graph_gen.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/UG-source_Learning/Single_Core/sim_config.ini",
+		"/Users/AEhsanfar/Dropbox/with Abas/UG-source_Learning/Single_Core/UG_game.py",
+		"/Users/AEhsanfar/Documents/Research/UG-source/Graph_gen.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/dayaheadLoad.R",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/final.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test07_Extension2_AgentBased/final.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/payment.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/Babak_Edits_July/Review/Simulation/visualization.py",
+		"/Users/AEhsanfar/Documents/problem2.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Statistics/lecture7MultivariateRegression.r",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Statistics/Assignment#08/dataPreprocess.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Data Set Analysis/categorical_numerical.py",
+		"/Users/AEhsanfar/Dropbox/Courses/Algorithm/Week12/final/main.cpp",
+		"/Users/AEhsanfar/Dropbox/Courses/Algorithm/SList/SList2 2/main.cpp",
+		"/Users/AEhsanfar/Dropbox/Courses/Algorithm/Week11/final/main.cpp",
+		"/Users/AEhsanfar/Dropbox/with Abas/Paper02_Distributed Optimization Algorithm/Codes/Test02/appliances.py",
+		"/Users/AEhsanfar/Documents/Research/Statistics/findLatLng.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Statistics/Assignment#05/findLatLng.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/RIS/Response/Simulations/disaggregation.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/RIS/Response/Latex/references.bib",
+		"/Users/AEhsanfar/Dropbox/with Abas/IEEE_SG/IEEE_ShortVersionPaper/references.bib",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test06_Extension/LoadForecast/visualizeReaults.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test06_Extension/LoadForecast/forecast_sample.py",
+		"/Users/AEhsanfar/Library/Mobile Documents/com~apple~CloudDocs/Statistics/Assignment#2/bibliography.bib",
+		"/Users/AEhsanfar/Dropbox/Courses/Research Methodology/Final/references.bib",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test06_Extension/visualPVProfile.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test06_Extension/final.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test05_Cooperative Load Prediction/resultsAnalysis.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/Paper02_Distributed Optimization Algorithm/Codes/Test01/appliances.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test05_Cooperative Load Prediction/CooperativeAgent02.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/RIS/references.bib",
+		"/Users/AEhsanfar/Downloads/broker_agents.svg",
+		"/Users/AEhsanfar/Dropbox/Courses/Research Methodology/references.bib",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test04 (LCPA)/learningPerformance.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Visualization_Results/visualization.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test05_Cooperative Load Prediction/svm_performance.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Codes/Test05_Cooperative Load Prediction/LCPA_CPA_AggregatePrediction.py",
+		"/Users/AEhsanfar/Downloads/AuthorKit/formatting-instructions-latex.tex",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Figures/Test05_Cooperative Load Prediction/CooperativeAgent02.py",
+		"/Users/AEhsanfar/Dropbox/with Abas/AAAI Paper/Figures/Test05_Cooperative Load Prediction/LCPA_CPA_AggregatePrediction.py",
+		"/Users/AEhsanfar/Documents/MachineLearning/Test03",
+		"/Users/AEhsanfar/Documents/MachineLearning/Test02.m",
+		"/Users/AEhsanfar/Documents/Test02"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=-1",
+			"plot_deg",
+			"json_k_reciprocity_",
+			"degree_reciprocity",
+			"3D",
+			"Figure",
+			"allresults",
+			"Cited",
+			"count",
+			"System.out.println",
+			"keys",
+			"r[i][1]",
+			")",
+			"(",
+			"worker",
+			"PJM",
+			"12",
+			"chen2012real",
+			"mohsenian2010autonomous",
+			"start",
+			"hold",
+			"self.maxN",
+			"mohsenian",
+			"tweedale2007innovations",
+			"calMACRPS",
+			"print ",
+			"d",
+			"sigma",
+			"sample"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"f[i]",
+			"]",
+			"["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 314.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/with Abas/AAAI Paper/Codes/Test05_Cooperative Load Prediction/CooperativeAgent02.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
